@@ -1,6 +1,6 @@
 # Starting Fresh
 
-This C++ template lets you get started quickly with a simple one-page playground.
+Trying out new and different things every time I log on. And having as much fun as I can!
 
 ```C++ runnable
 #include <iostream>
